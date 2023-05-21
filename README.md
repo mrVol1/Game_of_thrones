@@ -1,6 +1,6 @@
 # game_of_thrones
 
-A new Flutter project.
+Приложение игра, где можно узнать информацию о персонажах из сериала "Игра Престолов"
 
 ## Getting Started
 
